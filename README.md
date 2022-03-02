@@ -8,11 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYzihong&show_icons=true&theme=radical)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HYzihong&repo=h-element-vue3-composition&show_icons=true&theme=radical)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HYzihong&repo=naiveui-admin-template&show_icons=true&theme=radical)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HYzihong&repo=webpack5-study&show_icons=true&theme=radical)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HYzihong&repo=vue2-router-permissions&show_icons=true&theme=radical)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HYzihong&repo=vue2-big-data-list&show_icons=true&theme=radical)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HYzihong&repo=vue3_use_case&show_icons=true&theme=radical)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HYzihong&repo=node_playwright_weibo&show_icons=true&theme=radical)
 
 
